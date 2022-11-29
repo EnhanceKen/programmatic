@@ -15,6 +15,7 @@
 		02FD98612934F014006CBBD2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 02FD985F2934F014006CBBD2 /* LaunchScreen.storyboard */; };
 		02FD98692934F186006CBBD2 /* ProgrammaticTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02FD98682934F186006CBBD2 /* ProgrammaticTableViewCell.swift */; };
 		02FD986B2934F1C8006CBBD2 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02FD986A2934F1C8006CBBD2 /* DetailViewController.swift */; };
+		02FD986D29354A9A006CBBD2 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02FD986C29354A9A006CBBD2 /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		02FD98622934F014006CBBD2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		02FD98682934F186006CBBD2 /* ProgrammaticTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgrammaticTableViewCell.swift; sourceTree = "<group>"; };
 		02FD986A2934F1C8006CBBD2 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		02FD986C29354A9A006CBBD2 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				02FD98582934F011006CBBD2 /* ViewController.swift */,
 				02FD98682934F186006CBBD2 /* ProgrammaticTableViewCell.swift */,
 				02FD986A2934F1C8006CBBD2 /* DetailViewController.swift */,
+				02FD986C29354A9A006CBBD2 /* Extensions.swift */,
 				02FD985A2934F011006CBBD2 /* Main.storyboard */,
 				02FD985D2934F014006CBBD2 /* Assets.xcassets */,
 				02FD985F2934F014006CBBD2 /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				02FD98592934F011006CBBD2 /* ViewController.swift in Sources */,
+				02FD986D29354A9A006CBBD2 /* Extensions.swift in Sources */,
 				02FD98552934F011006CBBD2 /* AppDelegate.swift in Sources */,
 				02FD986B2934F1C8006CBBD2 /* DetailViewController.swift in Sources */,
 				02FD98572934F011006CBBD2 /* SceneDelegate.swift in Sources */,

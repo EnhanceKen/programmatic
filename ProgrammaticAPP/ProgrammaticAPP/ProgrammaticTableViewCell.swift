@@ -23,6 +23,7 @@ class ProgrammaticTableViewCell: UITableViewCell {
         label.translatesAutoresizingMaskIntoConstraints =  false
         label.backgroundColor = .systemRed
         label.numberOfLines = 0
+        label.textAlignment = .center
         label.text = "Nike Hot Step Air Terra Drake"
         
         return label
